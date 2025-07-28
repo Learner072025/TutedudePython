@@ -1,9 +1,6 @@
-# Python Basic Input/Output Programs
+# Python Assignment Programs
 
-This repository contains simple Python programs demonstrating:
-
-1. **Arithmetic Operations on User Input**
-2. **User Greeting with Full Name**
+This repository contains simple Python programs :
 
 # ASSIGNMENT 1:
 Module 2: Basic Python Concepts
